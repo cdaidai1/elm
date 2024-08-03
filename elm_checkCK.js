@@ -104,26 +104,26 @@ async function f(_0x848495 = _0x1b2526(508)) {
     })[_0x2bfeef(512)]();
   return _0x3fcedb[_0x2bfeef(552)];
 }
-async function g(_0x21106b, _0x11dde8, _0x2f0e71) {
-  const _0xaf3612 = _0x1b2526,
-    _0x358761 = {
-      "QcGYL": _0xaf3612(540)
-    },
-    _0x4c3df4 = {
-      "appToken": _0xaf3612(564),
-      "content": _0x21106b,
-      "summary": _0x11dde8,
-      "contentType": 2,
-      "uids": [_0x2f0e71]
-    },
-    _0x1c87c2 = await axios[_0xaf3612(488)](_0xaf3612(582), _0x4c3df4, {
-      "headers": {
-        "Content-Type": _0x358761[_0xaf3612(560)]
-      }
-    }),
-    _0x5ecf69 = _0x1c87c2[_0xaf3612(552)];
-  return _0x5ecf69;
-}
+// async function g(_0x21106b, _0x11dde8, _0x2f0e71) {
+//   const _0xaf3612 = _0x1b2526,
+//     _0x358761 = {
+//       "QcGYL": _0xaf3612(540)
+//     },
+//     _0x4c3df4 = {
+//       "appToken": _0xaf3612(564),
+//       "content": _0x21106b,
+//       "summary": _0x11dde8,
+//       "contentType": 2,
+//       "uids": [_0x2f0e71]
+//     },
+//     _0x1c87c2 = await axios[_0xaf3612(488)](_0xaf3612(582), _0x4c3df4, {
+//       "headers": {
+//         "Content-Type": _0x358761[_0xaf3612(560)]
+//       }
+//     }),
+//     _0x5ecf69 = _0x1c87c2[_0xaf3612(552)];
+//   return _0x5ecf69;
+// }
 async function h() {
   const _0x207df8 = _0x1b2526,
     _0x248f70 = {
